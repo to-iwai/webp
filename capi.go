@@ -12,6 +12,8 @@
 // https://github.com/golang/proposal/blob/master/design/12416-cgo-pointers.md
 //
 
+// +build cgo
+
 package webp
 
 /*
